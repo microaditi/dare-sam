@@ -1,2 +1,2 @@
 # dare-sam
-This repo will consist all the future dares given by samarth singh thakur
+This repo will consist of all the future dares given by samarth singh thakur
